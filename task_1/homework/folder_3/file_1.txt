@@ -1,0 +1,7 @@
+turn
+go
+try
+change
+show
+print
+
